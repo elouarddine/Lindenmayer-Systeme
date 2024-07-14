@@ -1,4 +1,4 @@
-#Lindenmayer-Systeme
+# Lindenmayer-Systeme
 
 ## Contribution au Projet L-Systèmes
 
@@ -35,8 +35,6 @@ Options disponibles :
 |                                       |
 |    Application en mode Console        |
 |_______________________________________|________________________________________________________
-| 												                                                | 
-|												                                                |
 |  (1) : éxcutez le script "script.sh"                                                          |
 |  (2) : Vous allez voir un Menu                                                                |
 |  (3) : Choisissez [1] pour accéder au mode console.                                           |
@@ -63,11 +61,9 @@ Une fois dans ce mode, utilisez les boutons dédiés "Générer 2D" et "Génére
  _______________________________________		
 |    Application en mode Graphique      |                 
 |_______________________________________|________________________________________________________
-|												                                                 
 |  (1) : éxcutez le script "script.sh"                                                           |
 |  (2) : Vous allez voir un Menu                                                                 |
 |  (3) : Choisissez [2] pour accéder au mode Graphique.                                          |
-|											                                                	 
 |________________________________________________________________________________________________|
 </pre>
 
