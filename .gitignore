@@ -1,2 +1,5 @@
 .DS_Store
+Lindenmayer_System/lib/.DS_Store
+Lindenmayer_System/lib/jogl_windows/.DS_Store
+
 build/
